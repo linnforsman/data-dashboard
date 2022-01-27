@@ -11,3 +11,6 @@ The dashboard was developed to provide an overview of top 10 world economies lan
 ## File Description
 - `myapp`: folder with all rendering of the frontend of the web app `HTML`, `CSS` and `Python` filed.
 - `requirements.txt`, `Procfile`, `myapp`: these files are used for deployment of the dashboard.
+
+## Licence, Authors and Acknowledgement
+The underlying data for analysis is pulled from the [World Bank](https://data.worldbank.org/summary-terms-of-use) api. Feel free to use the code to add additional features to the data dashboard.
